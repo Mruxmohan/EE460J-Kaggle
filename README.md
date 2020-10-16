@@ -1,7 +1,7 @@
 # EE460J-Kaggle
 Ongoing prep for 10/19-10/24 kaggle competition
 
-Kaggle Comps (Binary classifications, categorical data):
+Kaggle Comps (Binary classifications with categorical data):
 <ul>
   <li>Cat in the Dat: https://www.kaggle.com/c/cat-in-the-dat</li>
   <li>Cat in the Dat ii: https://www.kaggle.com/c/cat-in-the-dat-ii</li>
@@ -12,6 +12,8 @@ Kaggle Comps (Binary classifications, categorical data):
 </ul>
 
 Helpful Articles: 
-Tips & Tricks for Tabular Data (Binary Classifiers): https://medium.com/neptune-ai/tabular-data-binary-classification-all-tips-and-tricks-from-5-kaggle-competitions-51667b21876e
-Feature Selection with Categorical Data: https://machinelearningmastery.com/feature-selection-with-categorical-data/
-Categorical Data Encoding: https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
+<ul>
+  <li>Tips & Tricks for Tabular Data (Binary Classifiers): https://medium.com/neptune-ai/tabular-data-binary-classification-all-tips-and-tricks-from-5-kaggle-competitions-51667b21876e</li> 
+  <li>Feature Selection with Categorical Data: https://machinelearningmastery.com/feature-selection-with-categorical-data/</li> 
+  <li>Categorical Data Encoding: https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/</li> 
+</ul>
