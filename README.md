@@ -1,7 +1,7 @@
-# EE460J-Kaggle
-Ongoing prep for 10/19-10/24 kaggle competition
+# EE460J-Kaggle\
+Ongoing prep for 10/19-10/24 kaggle competition\
 
-Kaggle Comps (Binary classifications, categorical data):
+Kaggle Comps (Binary classifications, categorical data):\
 Cat in the Dat: https://www.kaggle.com/c/cat-in-the-dat
 Cat in the Dat ii: https://www.kaggle.com/c/cat-in-the-dat-ii
 VSB Power Line Fault Detection: https://www.kaggle.com/c/vsb-power-line-fault-detection/overview/evaluation
