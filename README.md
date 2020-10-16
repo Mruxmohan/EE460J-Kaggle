@@ -1,5 +1,5 @@
 # EE460J-Kaggle
-Ongoing prep for 10/19-10/24 kaggle competition
+Ongoing prep for 10/19/20-10/24/20 kaggle competition
 
 Kaggle Comps (Binary classifications with categorical data):
 <ul>
