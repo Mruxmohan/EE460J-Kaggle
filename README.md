@@ -16,4 +16,6 @@ Helpful Articles:
   <li>Tips & Tricks for Tabular Data (Binary Classifiers): https://medium.com/neptune-ai/tabular-data-binary-classification-all-tips-and-tricks-from-5-kaggle-competitions-51667b21876e</li> 
   <li>Feature Selection with Categorical Data: https://machinelearningmastery.com/feature-selection-with-categorical-data/</li> 
   <li>Categorical Data Encoding: https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/</li> 
+  <li>ROC and Precision-Recall Curves: https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/</li>
+  <li>L1 vs. L2 Regularization: https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c</li>
 </ul>
