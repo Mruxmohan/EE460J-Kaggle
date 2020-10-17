@@ -19,3 +19,32 @@ Helpful Articles:
   <li>ROC and Precision-Recall Curves: https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/</li>
   <li>L1 vs. L2 Regularization: https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c</li>
 </ul>
+
+Data Preprocessing:
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+Evaluate Different Models:
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+Optimize over Hyperparams:
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+Practice Feature Importance:
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
