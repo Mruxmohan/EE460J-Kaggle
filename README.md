@@ -20,31 +20,35 @@ Helpful Articles:
   <li>L1 vs. L2 Regularization: https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c</li>
 </ul>
 
-Data Preprocessing:
+Tricks with larger Datasets:
+<ul>
+  <li>Faster data loading with pandas</li>
+  <li>Data compression techniques</li>
+</ul>
+
+Data Exploration (for feature engineering):
+<ul>
+  <li>TBD</li>
+  <li>TBD</li>
+  <li>TBD</li>
+</ul>
+
+Data Preparation:
 <ul>
   <li>Imputate missing vals with most freq val of each column: df = df.apply(lambda x:x.fillna(x.value_counts().index[0]))</li>
-  <li></li>
-  <li></li>
+  <li>Tackle class imbalance</li>
+  <li>Encoding techniques for categorical data</li>
 </ul>
 
-Evaluate Different Models:
+Feature Selection:
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Tree explainer using SHAP</li>
+  <li>Use sklearn (6 ways from article)</li>
 </ul>
 
-Optimize over Hyperparams:
+Decide Best Models/Evaluate:
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Random Forest/XGBoost/CatBoost/LightGBM/Logistic Regression</li>
+  <li>Weighted average or stacked generalization ensemble</li>
+  <li>AUC Weight Optimization</li>
 </ul>
-
-Practice Feature Importance:
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
-
