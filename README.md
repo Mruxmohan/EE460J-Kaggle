@@ -22,7 +22,7 @@ Helpful Articles:
 
 Data Preprocessing:
 <ul>
-  <li></li>
+  <li>Imputate missing vals: df = df.apply(lambda x:x.fillna(x.value_counts().index[0]))</li>
   <li></li>
   <li></li>
 </ul>
