@@ -22,7 +22,7 @@ Helpful Articles:
 
 Data Preprocessing:
 <ul>
-  <li>Imputate missing vals: df = df.apply(lambda x:x.fillna(x.value_counts().index[0]))</li>
+  <li>Imputate missing vals with most freq val of each column: df = df.apply(lambda x:x.fillna(x.value_counts().index[0]))</li>
   <li></li>
   <li></li>
 </ul>
