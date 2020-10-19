@@ -48,6 +48,7 @@ Feature Selection:
 
 Decide Best Models/Evaluate:
 <ul>
+  <li>Parameter Tuning with Hyperopt: https://medium.com/district-data-labs/parameter-tuning-with-hyperopt-faa86acdfdce#:~:text=uniform%20is%20a%20built%2Din,for%20tree%20of%20Parzen%20estimators.&text=This%20fmin%20function%20returns%20a%20python%20dictionary%20of%20values.</li>
   <li>Random Forest/XGBoost/CatBoost/LightGBM/Logistic Regression</li>
   <li>CatBoost Params: https://towardsdatascience.com/https-medium-com-talperetz24-mastering-the-new-generation-of-gradient-boosting-db04062a7ea2</li>
   <li>Weighted average or stacked generalization ensemble</li>
