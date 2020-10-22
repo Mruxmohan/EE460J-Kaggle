@@ -54,4 +54,5 @@ Decide Best Models/Evaluate:
   <li>CatBoost Params: https://towardsdatascience.com/https-medium-com-talperetz24-mastering-the-new-generation-of-gradient-boosting-db04062a7ea2</li>
   <li>Weighted average or stacked generalization ensemble</li>
   <li>AUC Weight Optimization</li>
+  <li>Guide to Evaluation: https://www.ritchieng.com/machine-learning-evaluate-classification-model/</li>
 </ul>
